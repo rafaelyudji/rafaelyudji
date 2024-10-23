@@ -46,6 +46,3 @@
 
 ###
 
-<h4 align="left">💻 Tenho 21 anos e sou formado em Análise e Desenvolvimento de Sistemas. Sou apaixonado por programação e estou sempre buscando aprender mais e melhorar minhas habilidades. Gosto de explorar novas tecnologias, estudar constantemente e adquirir conhecimentos que agreguem valor ao meu perfil profissional.<br>
-
-###
